@@ -16,18 +16,18 @@
     ##### [Old Top Five Performance](https://github.com/SamuelBerryProgramming/School_District_Analysis/blob/master/Resources/Top_Schools_Old.png)  
     ##### [New Top Five Performance](https://github.com/SamuelBerryProgramming/School_District_Analysis/blob/master/Resources/Top_Schools_New.png)
   * #### Other Effects of Omission of Scores
-   * Scores for all other reading and math tests remain the same, as only the scores of the 9th grade class of Thomas High were dropped.           
+   ** Scores for all other reading and math tests remain the same, as only the scores of the 9th grade class of Thomas High were dropped.           
    ##### [Old Math Scores By School](https://github.com/SamuelBerryProgramming/School_District_Analysis/blob/master/Resources/Math_Scores_Old.png)   
    ##### [New Math Scores By School](https://github.com/SamuelBerryProgramming/School_District_Analysis/blob/master/Resources/Math_Scores_New.png)  
    ##### [Old Reading Scores By School](https://github.com/SamuelBerryProgramming/School_District_Analysis/blob/master/Resources/Reading_Scores_Old.png)  
    ##### [New Reading Scores By School](https://github.com/SamuelBerryProgramming/School_District_Analysis/blob/master/Resources/Reading_Scores_New.png) 
-   * The only spending range affected was $630-644, with rounded averages remaining the same and percentage passing decreasing by 6% for math, 7% for reading, and 6% overall.         
+   ** The only spending range affected was $630-644, with rounded averages remaining the same and percentage passing decreasing by 6% for math, 7% for reading, and 6% overall.         
    ##### [Old Spending per Student](https://github.com/SamuelBerryProgramming/School_District_Analysis/blob/master/Resources/Spending_Old.png)
    ##### [New Spending per Student](https://github.com/SamuelBerryProgramming/School_District_Analysis/blob/master/Resources/Spending_New.png) 
-   * Passing percentages decreased for medium sized schools, 6% for math, 6% for reading, and 6% overall.          
+   ** Passing percentages decreased for medium sized schools, 6% for math, 6% for reading, and 6% overall.          
    ##### [Old Size Summary](https://github.com/SamuelBerryProgramming/School_District_Analysis/blob/master/Resources/Size_New.png)  
    ##### [New Size Summary](https://github.com/SamuelBerryProgramming/School_District_Analysis/blob/master/Resources/Size_Old.png)
-   * Passing percentages diminished for charter schools, 4% for math, 4% for reading, and 3% overall.
+   ** Passing percentages diminished for charter schools, 4% for math, 4% for reading, and 3% overall.
    ##### [Old Type Summary](https://github.com/SamuelBerryProgramming/School_District_Analysis/blob/master/Resources/Type_Old.png)  
    ##### [New Type Summary](https://github.com/SamuelBerryProgramming/School_District_Analysis/blob/master/Resources/Type_New.png)
 ## Summary of Changes
